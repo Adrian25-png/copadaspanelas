@@ -133,7 +133,7 @@ nav ul li a:hover {
 }
 
 .news-block {
-    background-color: #1a0000; /* Fundo vermelho */
+    background-color: #6100a1; /* Fundo vermelho */
     margin: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -371,4 +371,5 @@ nav ul li a:hover {
         width: 100% !important;
         height: auto !important;
     }
+
 }
