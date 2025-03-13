@@ -9,16 +9,16 @@
     </div>
 
     <!--Título da copa.-->
-    <div id="titulo-container">
+    <!-- <div id="titulo-container">
         <div id="titulo">COPA DAS PANELAS</div>
-    </div>
+    </div> -->
 
     <!--Login.-->
     <div class="cadastro">
         <?php if (isset($_SESSION['admin_id'])): ?>
             <a href="../pages/adm/rodadas_adm.php" class="fas fa-user"> Entrar</a>
         <?php else: ?>
-            <a href="../pages/adm/login.php" class="fas fa-user"> Login</a>
+            <a href="../pages/adm/login.php" class="fas fa-user">Login</a>
         <?php endif; ?>
     </div>
 
