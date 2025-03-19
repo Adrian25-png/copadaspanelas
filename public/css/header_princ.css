@@ -8,10 +8,10 @@ html, body {
 }
 :root {
     --cor-branca: #fff;
-    --cor-roxo: rgb(0, 12, 180);
+    --cor-roxo: #6300e4;
     --cor-escura4: #1c1c1c;
     --cor-texto: #000;
-    --cor-fundo: #fff;
+    --cor-fundo: #f8f2ff;
 }
 .dark-mode {
     --cor-branca: #fff;
@@ -78,7 +78,7 @@ body {
 }
 
 .header {
-    background-color: var(--cor-vermelho);
+    background-color: var(--cor-roxo);
     height: 6em; /* Aumenta a altura do header */
     box-shadow: 1px 1px 4px var(--cor-escura4);
     width: 100%;
@@ -182,7 +182,7 @@ body {
         position: fixed;
         flex-direction: column;
         top: 0;
-        background: var(--cor-vermelho);
+        background: var(--cor-roxo);
         height: 100%;
         width: 35vw;
         padding: 1em;
