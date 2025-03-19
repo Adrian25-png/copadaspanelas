@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(top,rgba(12, 0, 187),rgba(92, 0, 197));
+    background: linear-gradient(0deg, rgba(16,0,36,1) 0%, rgba(50,9,121,1) 35%, rgba(115,0,255,1) 90%);
     /* background: linear-gradient(90deg, rgb(92, 0, 197), rgb(0, 0, 0));
     color: rgb(12, 0, 187); */
     user-select: none;
@@ -22,7 +22,7 @@ form {
     padding: 40px;
     border: 1px solid black;
     border-radius: 10px;
-    box-shadow: 0 0 40px rgba(255, 0, 0, 1.8);
+    box-shadow: 0 0 40px rgb(106, 0, 255);
     margin-top: 5%;
     width: 100%;
 }
