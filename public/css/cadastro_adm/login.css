@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: rgb(218, 215, 215);
+    background-color: rgb(35, 0, 92);
     user-select: none;
 }
 .form-container {
@@ -17,7 +17,7 @@ body {
 form {
     max-width: 400px;
     width: 100%;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(98, 101, 255, 0.8);
     padding: 40px;
     border-radius: 15px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
@@ -38,7 +38,7 @@ input[type="password"] {
     font-size: 16px;
 }
 button {
-    background-color: #c60909;
+    background-color: #142aee;
     color: #fff;
     border: none;
     padding: 12px 20px;
@@ -48,7 +48,7 @@ button {
     width: 100%;
 }
 button:hover {
-    background-color: #a50707;
+    background-color: #142aee;
 }
 
 .senha_incorreta{
