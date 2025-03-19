@@ -1,6 +1,6 @@
 <?php
 // session_start();
-include("session_check.php");
+
 ?>
 <?php
 // session_start();
