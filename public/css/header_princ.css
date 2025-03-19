@@ -8,14 +8,14 @@ html, body {
 }
 :root {
     --cor-branca: #fff;
-    --cor-vermelho: rgb(180, 0, 0);
+    --cor-roxo: rgb(84, 0, 180);
     --cor-escura4: #1c1c1c;
     --cor-texto: #000;
     --cor-fundo: #fff;
 }
 .dark-mode {
     --cor-branca: #fff;
-    --cor-vermelho: #cc0000;
+    --cor-roxo: #4600a1;
     --cor-escura4: #1c1c1c;
     --cor-texto: #e0e0e0;
     --cor-fundo: #121212;
@@ -64,7 +64,7 @@ html, body {
 }
 
 #deslogar a:hover {
-    color: rgb(150, 0, 0);
+    color: rgb(84, 0, 180);
     transition: 0.3s;
 }
 
@@ -148,11 +148,11 @@ body {
 
 .dark-mode th {
     color: #00ff00; 
-    border-bottom: 3px solid #ff0000; 
+    border-bottom: 3px solid #4600a1; 
 }
 
 .dark-mode .dados {
-    color: #ff0000; 
+    color: #4600a1; 
 }
 
 .dark-mode .clube {
@@ -230,7 +230,7 @@ body {
     display: none;
     position: absolute;
     left: 0;
-    background: rgb(109, 0, 0);
+    background: rgb(109, 0, 180);
     min-width: 150px;
     border-radius: 5px;
     z-index: 22;
