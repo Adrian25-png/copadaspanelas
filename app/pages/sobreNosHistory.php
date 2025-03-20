@@ -4,15 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>História da Copa das Panelas</title>
-    <link rel="stylesheet" href="../.../../../public/css/cssfooter.css">
-    <link rel="stylesheet" href="../../public/css/sobre_nos.css">
-    <link rel="stylesheet" href="../../public/css/cssheader.css">
     <link rel="stylesheet" href="../../public/css/HomePage.css">
+    <link rel="stylesheet" href="../../public/css/cssheader.css">
+    <link rel="stylesheet" href="../../public/css/cssfooter.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="shortcut icon" href="../../public/imgs/ESCUDO COPA DAS PANELAS.png" type="image/x-icon">
+    <link rel="stylesheet" href="../../public/css/sobre_nosHistory.css">
+
+
 
 </head>
 <body>
-    <?php  require_once 'header.php' ?>
+
+    <?php  require_once 'header.php'?> 
+    
     <nav id="nav-menu">
         <ul>
             <li><a href="../pages/HomePage.php">Home</a></li>
@@ -28,12 +33,12 @@
                 <a href="">Dados da Copa ▾</a>
                 <ul class="dropdown">
                     <li><a href="../pages/publicacoes.php">Publicações</a></li>
-                    <li><a href="../pages/sobreNos.php">História</a></li>
+                    <li><a href="../pages/sobreNosTeam.php">História</a></li>
                     <li><a href="">Estatísticas</a></li> <!--Criar um dropdown para os outros arquivos de estatistica de jogador-->
                 </ul>
             </li>
             <li><a href="Jogos Proximos.php">Transmissão</a></li>
-            <li><a href="../pages/sobreNos.php">Sobre nós</a></li>
+            <li><a href="../pages/sobreNosTeam.php">Sobre nós</a></li>
         </ul>
     </nav>
     <div class="container">

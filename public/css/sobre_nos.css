@@ -10,10 +10,11 @@ body{
     background: rgba(238, 227, 227, 0.828);
 }
 .container {
-    display: block;
+    width: 100%;
+    display: grid;
     align-items: center;
     justify-content: center;
-    max-width: 990px;
+    max-width: 1350px;
     margin: 0 auto;
     padding: 2rem;
     background-color: #fff;
