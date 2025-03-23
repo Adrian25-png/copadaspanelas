@@ -99,14 +99,33 @@
     <H3>CONTEÚDO DA COPA</H3>
     <hr>
 
+
         <section class="conteudo">
-            <div class="image-block">
+            <div class="image">
+                <img src="../../public/img/IMG-20240404-WA0002.jpg" alt="Imagem Descritiva">
+                <div class="content">
+                    <h1><a href="sobreNosHistory.php" target="_self">Historia Copa das Panelas</a></h1>
+                    <p>Descrição detalhada sobre o conteúdo do bloco. Este texto fornece mais informações sobre o que é representado pela imagem e o contexto relevante.</p>
+                </div>
+            </div>
+
+            <div class="image">
+                <img src="../../public/img/IMG-20240404-WA0002.jpg" alt="Imagem Descritiva">
+                <div class="content">
+                    <h1><a href="sobreNosTeam.php" target="_self">Jogadores da Copa</a></h1>
+                    <p>Descrição detalhada sobre o conteúdo do bloco. Este texto fornece mais informações sobre o que é representado pela imagem e o contexto relevante.</p>
+                </div>
+            </div>
+
+            <!-- <div class="image-block">
                 <img src="../../public/img/IMG-20240404-WA0002.jpg" alt="Imagem Descritiva">
             </div>
+            
             <div class="text-block">
                 <h2><a href="sobreNosHistory.php" target="_self">Historia Copa das Panelas</a></h2>
                 <p>Descrição detalhada sobre o conteúdo do bloco. Este texto fornece mais informações sobre o que é representado pela imagem e o contexto relevante.</p>
             </div>
+
 
             <div class="image-block">
                 <img src="../../public/img/IMG-20240404-WA0002.jpg" alt="Imagem Descritiva">
@@ -114,7 +133,7 @@
             <div class="text-block">
                 <h2><a href="sobreNosTeam.php" target="_self">Jogadores da Copa</a></h2>
                 <p>Descrição detalhada sobre o conteúdo do bloco. Este texto fornece mais informações sobre o que é representado pela imagem e o contexto relevante.</p>
-            </div>
+            </div> -->
         </section>
 
     </main>

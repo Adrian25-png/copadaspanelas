@@ -11,8 +11,6 @@
     <link rel="shortcut icon" href="../../public/imgs/ESCUDO COPA DAS PANELAS.png" type="image/x-icon">
     <link rel="stylesheet" href="../../public/css/sobre_nosHistory.css">
 
-
-
 </head>
 <body>
 

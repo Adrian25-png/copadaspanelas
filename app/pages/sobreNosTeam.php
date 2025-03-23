@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../../public/css/HomePage.css">
     <link rel="stylesheet" href="../../public/css/cssheader.css">
     <link rel="stylesheet" href="../../public/css/cssfooter.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">]
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <link rel="shortcut icon" href="../../public/imgs/ESCUDO COPA DAS PANELAS.png" type="image/x-icon">
     <link rel="stylesheet" href="../../public/css/sobre_nosTeam.css">
 
